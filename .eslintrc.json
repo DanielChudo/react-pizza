@@ -1,0 +1,31 @@
+{
+  "env": {
+    "es6": true,
+    "browser": true
+  },
+  "extends": ["airbnb", "prettier"],
+  "plugins": ["prettier"],
+  "rules": {
+    "prettier/prettier": [
+      "error",
+      {
+        "endOfLine": "auto"
+      }
+    ],
+    "no-unused-vars": "warn",
+    "no-console": "off",
+    "func-names": "off",
+    "no-param-reassign": "off",
+    "one-var": "off",
+    "no-case-declarations": "off",
+    "no-underscore-dangle": "off",
+    "consistent-return": "off",
+    "no-plusplus": "off",
+    "jsx-a11y/click-events-have-key-events": "off",
+    "jsx-a11y/no-static-element-interactions": "off",
+    "jsx-a11y/no-noninteractive-element-interactions": "off"
+  },
+  "parserOptions": {
+    "sourceType": "module"
+  }
+}

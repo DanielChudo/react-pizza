@@ -1,0 +1,144 @@
+{
+  "pizzas": [
+    {
+      "id": 0,
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/4e630ad6-e12e-4d52-ac4c-a7edb799c0fa.jpg",
+      "name": "Пепперони",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 395,
+      "category": [0],
+      "rating": 4
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/26fa2948b6c74113afb9d09a3262fc26_584x584.jpeg",
+      "name": "Ветчина и грибы",
+      "types": [0, 1],
+      "sizes": [26, 40],
+      "price": 345,
+      "category": [0],
+      "rating": 6
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/d7c37f8b331747b284ef537cc2c22c76_584x584.jpeg",
+      "name": "Чиззи чеддер",
+      "types": [0],
+      "sizes": [26, 40],
+      "price": 395,
+      "category": [0],
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/ff8e79f8-25f8-45fc-a488-30c716b7e04d.jpg",
+      "name": "Супермясная",
+      "types": [1],
+      "sizes": [26, 30, 40],
+      "price": 495,
+      "category": [0],
+      "rating": 2
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/e8a8ded1f8154d11ab5065dc5208b187_584x584.jpeg",
+      "name": "Маргарита 🌱",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 345,
+      "category": [1],
+      "rating": 8
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/ebf8b8670d6b4f078d9afa616d01202a_584x584.jpeg",
+      "name": "Сырная 🌱",
+      "types": [0],
+      "sizes": [30, 40],
+      "price": 245,
+      "category": [1],
+      "rating": 2
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/7a497170e99a435f8535f33c3ebaddc3_584x584.jpeg",
+      "name": "Овощи и грибы 🌱",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 395,
+      "category": [1],
+      "rating": 3
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/acf387b2-273b-41ab-82c8-d648ae4793cd.jpg",
+      "name": "Пицца-пирог 🌱",
+      "types": [1],
+      "sizes": [26, 30, 40],
+      "price": 345,
+      "category": [1],
+      "rating": 6
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/72c7882f35ad4db1805bb43f09717d8d_584x584.jpeg",
+      "name": "Аррива 🌶️",
+      "types": [0, 1],
+      "sizes": [40],
+      "price": 395,
+      "category": [0, 2],
+      "rating": 6
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/a1f7da39-debe-4a2e-bfc9-82d747f5aeec.jpg",
+      "name": "Мексиканская 🌶️",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 285,
+      "category": [0, 2],
+      "rating": 7
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/701f8120-25b4-4b56-ace4-905a1e3f3636.jpg",
+      "name": "Цыпленок барбекю 🌶️",
+      "types": [0, 1],
+      "sizes": [26, 40],
+      "price": 445,
+      "category": [0, 2],
+      "rating": 8
+    },
+    {
+      "id": 11,
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/38fcdc71fc4c4303a0a929cd2c635b9d_584x584.jpeg",
+      "name": "Грибной стартер 🌱",
+      "types": [0],
+      "sizes": [26],
+      "price": 159,
+      "category": [1, 3],
+      "rating": 2
+    },
+    {
+      "id": 12,
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/b51d76666eb842d1a3c7c4879c4e3b0e_584x584.jpeg",
+      "name": "Острый стартер 🌶️",
+      "types": [0],
+      "sizes": [26, 30, 40],
+      "price": 159,
+      "category": [0, 2, 3],
+      "rating": 1
+    },
+    {
+      "id": 13,
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/a846802a549043e9905744c9c85af53e_584x584.jpeg",
+      "name": "Мясной стартер",
+      "types": [0],
+      "sizes": [26, 30, 40],
+      "price": 159,
+      "category": [0, 3],
+      "rating": 1
+    }
+  ]
+}
